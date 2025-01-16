@@ -100,7 +100,7 @@ const Hero = () => {
           <Button href={`#${MENULINKS[4].ref}`} classes="link" type="primary">
             Let&apos;s Talk
           </Button>
-          <Button href="https://ooyesanket.tech" classes="link" type="primary">
+          <Button href="https://drive.google.com/file/d/1WtCGYk399oeCvrD6u4VO0m77dJa8xmmx/view?usp=drivesdk" classes="link" type="primary">
             CV
           </Button>
         </div>
