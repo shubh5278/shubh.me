@@ -12,21 +12,21 @@ const Work = ({ isDesktop }) => {
     () => [
       {
         title: "Digibread",
-        value: "digibread",
+        value: "Digibread",
         content: (
           <StickyScroll
             isDesktop={isDesktop}
-            contentItems={WORK_CONTENTS.DUKAAN}
+            contentItems={WORK_CONTENTS.DIGIBREAD}
           />
         ),
       },
       {
-        title: "Aviate",
-        value: "Aviate",
+        title: "I-team",
+        value: "I-team",
         content: (
           <StickyScroll
             isDesktop={isDesktop}
-            contentItems={WORK_CONTENTS.AVIATE}
+            contentItems={WORK_CONTENTS.Iteam}
           />
         ),
       },
