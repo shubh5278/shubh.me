@@ -44,7 +44,7 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Developer",
+  "A Software Developer",
   "I build things for the web",
   "I create aesthetic and modern websites",
 ];
@@ -84,8 +84,9 @@ export const SKILLS = {
     // "vite",
     "firebase",
     "figma",
-    // "tanstack-query",
     "php",
+    "wordpress",
+    "shopify",
   ],
   librariesAndFrameworks: [
     "react",
